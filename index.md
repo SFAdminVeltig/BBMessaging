@@ -3,7 +3,7 @@
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
-		
+			
 			window.addEventListener("onEmbeddedMessagingReady", () => {            
 			console.log( "Inside Prechat API!!" );
 			embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields( {'QueueName' : 'Boot Barn Messaging' } );
@@ -12,7 +12,7 @@
 			embeddedservice_bootstrap.init(
 				'00D6g0000050w0P',
 				'Boot_Barn_Messaging',
-				'https://bootbarn.my.site.com/ESWBootBarnMessaging1770066084799',
+				'https://bootbarn.my.site.com/ESWBootBarnMessaging1774461017832',
 				{
 					scrt2URL: 'https://bootbarn.my.salesforce-scrt.com'
 				}
@@ -22,5 +22,5 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bootbarn.my.site.com/ESWBootBarnMessaging1770066084799/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bootbarn.my.site.com/ESWBootBarnMessaging1774461017832/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </html>
