@@ -23,6 +23,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bootbarn--uat.sandbox.my.site.com/ESWBootBarnMessaging1770066084799/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bootbarn--uat.sandbox.my.site.com/ESWBootBarnMessaging1774461017832/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 <!--<script type='text/javascript' src='https://bootbarn.my.site.com/ESWBootBarnMessaging1774461017832/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>-->
 </html>
